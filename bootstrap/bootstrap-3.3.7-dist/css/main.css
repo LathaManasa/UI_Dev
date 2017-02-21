@@ -1,0 +1,44 @@
+.features .glyphicon{
+	font-size: 40px;
+	padding:20px;
+}
+.footer{
+	background-color:black;
+}	
+
+body{
+	padding-top:80px;
+	background-image:url("../Images/bg1.gif");
+	background-size:100%;
+
+}
+
+h4{
+	color: white;
+
+}
+.navbar-brand{
+	font-style:italic;
+	font-family:cursive;
+	font-size:30px;
+
+}
+p{
+	font-family:cursive;
+}
+h3{
+	font-family:cursive;
+}
+h2{
+	font-family:cursive;
+}
+p .navbar{
+	color:white	;
+}
+.col-md-4{
+	padding-top:70px;
+}
+.brand{
+	font-size:20px;
+	font-family:cursive;
+}
